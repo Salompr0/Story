@@ -1,1 +1,9 @@
 //code chapter1.txt - to open the file on the terminal.
+//git init - to start
+//to allow directory to be safe to work - git config --global --add safe.directory 
+'D:/PC/1CURSO/CURSO_web-development/Backend/Secção27/Story'
+//git status - to see the changes
+//git add chapter1.txt - to add file to git
+///git add . to put every files in the git repository.
+//git commit -m " - to commit message, important to keep track of the changes we make in the each commit, our last codes.
+//git log - to see the save points, who did it and when
