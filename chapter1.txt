@@ -8,3 +8,4 @@
 //git commit -m " - to commit message, important to keep track of the changes we make in the each commit, our last codes.
 //git log - to see the save points, who did it and when
 //git checkout - to restore the previous checkpoint
+//git rm --cached -r . - to take everything out of the repository
